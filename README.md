@@ -6,7 +6,7 @@ Code repo has two branches:
 Master branch - starter code which needs to be cloned to get started
 $git clone "this github repo"
 
-$cd React-State-Class-Lifecycle-Starter
+$cd react-state-life-cycle
 
 $ npm i  or $ yarn i
 
